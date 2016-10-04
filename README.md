@@ -14,6 +14,7 @@
 ![](images/2.jpg)
 - [HTC Vive 交互基础](http://www.taikr.com/course/432)
 ***
+
 ##各平台搭建
 - [VR系列教程 －－各平台开发环境搭建](http://toutiao.com/i6330030103044555266/)
 - [HTC Vive 开发环境搭建](http://www.360doc.com/content/16/0712/10/10408243_574901317.shtml)
@@ -95,45 +96,46 @@
 - [WebVR如此近 - three.js的WebVR示例程序解析](https://zhuanlan.zhihu.com/p/21556998)
 ***
 ## VR 报告单
-* ###[【VR+直播】“VR+直播”是生态布局的最重要拼图](https://pan.baidu.com/s/1gf7GU1X)(提起码：3afr)
-* ###[VR产品大全整理](https://pan.baidu.com/s/1boQ5Dfx)(提取码：w6xm)
-* ###[腾讯高级工程师泣血制作的VR技术报告](https://pan.baidu.com/s/1mhOR3rM)(提取码：38v2)
-* ###[一篇文章理解虚拟现实技术](https://pan.baidu.com/s/1hr8K9VY)
-* ###[VR行业十年完整分析报告](https://pan.baidu.com/s/1c1XVnl2)(提取码：j1ud)
-* ###[高盛行业研究报告《VR与AR：解读下一个通用计算平台](https://pan.baidu.com/s/1gf2XjJP)(提取码：aqk4)
-* ###[VR圈深度图谱报告，所有融资和布局VR的公司都在这里了！](https://pan.baidu.com/s/1jIe48aM)(提取码：9d5e)
-* ###[VR在工程中的应用研究报告-苏兴华0322](https://pan.baidu.com/s/1qXA6ja0)(提取码：agcz)
-* ###[VR行业十年完整分析报告(1)](https://pan.baidu.com/s/1eRKZWEe)(提取码：gqbg)
-* ###[VR行业现状研究报告出炉，182页PPT帮你了解虚拟现实目前状况](https://pan.baidu.com/s/1mifMysK)（提取码：rip3）
-* ###[德银VR报告中文完整版来了！2万字让你了解关于VR的一切](https://pan.baidu.com/s/1kVPPCH5)（提取码：e5fq）
-* ###[澄泓研究_VR内容产业现状和发展趋势报告](https://pan.baidu.com/s/1o8uB2Oy)（提取码：dd84）
-* ###[阿里投了8个亿的AR公司Magic Leap，曾发过一份逆天报告](https://pan.baidu.com/s/1mik6gqO)（提取码：b3sd）
-* ###[中国VR_AR产业品牌发展报告全文，3万多字覆盖该领域的方方面面](https://pan.baidu.com/s/1pK9mpcB)（提取码：urve）
-* ###[36Kr：2016年虚拟现实行业研究报告（应用篇）](https://pan.baidu.com/s/1dF0t2pz)（提取码：7csa）
-* ###[关于VR的发展历史和未来，这6000字长文梳理得够清楚了！](https://pan.baidu.com/s/1qY4aN5E)(提取码：p2nb)
-* ###[电影和文学里的VR文化史，虚拟现实从业者必读](https://pan.baidu.com/s/1hsyR0Cs)(提取码：u7am)
+- [【VR+直播】“VR+直播”是生态布局的最重要拼图](https://pan.baidu.com/s/1gf7GU1X)(提起码：3afr)
+- [VR产品大全整理](https://pan.baidu.com/s/1boQ5Dfx)(提取码：w6xm)
+- [腾讯高级工程师泣血制作的VR技术报告](https://pan.baidu.com/s/1mhOR3rM)(提取码：38v2)
+- [一篇文章理解虚拟现实技术](https://pan.baidu.com/s/1hr8K9VY)
+- [VR行业十年完整分析报告](https://pan.baidu.com/s/1c1XVnl2)(提取码：j1ud)
+- [高盛行业研究报告《VR与AR：解读下一个通用计算平台](https://pan.baidu.com/s/1gf2XjJP)(提取码：aqk4)
+- [VR圈深度图谱报告，所有融资和布局VR的公司都在这里了！](https://pan.baidu.com/s/1jIe48aM)(提取码：9d5e)
+- [VR在工程中的应用研究报告-苏兴华0322](https://pan.baidu.com/s/1qXA6ja0)(提取码：agcz)
+- [VR行业十年完整分析报告(1)](https://pan.baidu.com/s/1eRKZWEe)(提取码：gqbg)
+- [VR行业现状研究报告出炉，182页PPT帮你了解虚拟现实目前状况](https://pan.baidu.com/s/1mifMysK)（提取码：rip3）
+- [德银VR报告中文完整版来了！2万字让你了解关于VR的一切](https://pan.baidu.com/s/1kVPPCH5)（提取码：e5fq）
+- [澄泓研究_VR内容产业现状和发展趋势报告](https://pan.baidu.com/s/1o8uB2Oy)（提取码：dd84）
+- [阿里投了8个亿的AR公司Magic Leap，曾发过一份逆天报告](https://pan.baidu.com/s/1mik6gqO)（提取码：b3sd）
+- [中国VR_AR产业品牌发展报告全文，3万多字覆盖该领域的方方面面](https://pan.baidu.com/s/1pK9mpcB)（提取码：urve）
+- [36Kr：2016年虚拟现实行业研究报告（应用篇）](https://pan.baidu.com/s/1dF0t2pz)（提取码：7csa）
+- [关于VR的发展历史和未来，这6000字长文梳理得够清楚了！](https://pan.baidu.com/s/1qY4aN5E)(提取码：p2nb)
+- [电影和文学里的VR文化史，虚拟现实从业者必读](https://pan.baidu.com/s/1hsyR0Cs)(提取码：u7am)
 
 ***
 ##VR 论文
 
-* ###[虚拟人行走运动算法分析与实现_张金钊](https://pan.baidu.com/s/1o8hep7O)(提取码：4gp4)
-* ###[基于虚拟现实技术的漫游系统_金永涛](https://pan.baidu.com/s/1dF4xplB)(提取码：eij6)
-* ###[基于虚拟现实技术的现代教育探索_王志坚](https://pan.baidu.com/s/1o8D8pjc)(提取码：5c9e)
-* ###[虚拟实在与自然实在的本体论对等性](https://pan.baidu.com/s/1c2Hq56g)(提取码：dx9x)
-* ###[一种基于Web的虚拟现实VR设备展示技术的实现_叶琳](https://pan.baidu.com/s/1mhQTwa0)(提取码：b9y6)
-* ###[虚拟手机交互系统的研究_徐东风](https://pan.baidu.com/s/1sl6G9NB)(提取码：dymw)
-* ###[符号学在VR手势交互设计中的应用研究_尹超](https://pan.baidu.com/s/1hs6ta7M)(提取码：am6a)
-* ###[基于VR的虚拟视景系统关键技术研究_钟啸](https://pan.baidu.com/s/1eRKZXHC)(提取码：b2wa)
-* ###[从专利角度解析VR与AR_邵永德](https://pan.baidu.com/s/1hrCiyvM)(提取码：7a4y)
-* ###[跟着VR去火星_杨洋](https://pan.baidu.com/s/1jIbMKWe)(提取码：9w87)
-* ###[基于Internet的虚拟现实交互技术_杨俊超](https://pan.baidu.com/s/1dF7KXiT)(提取码：k2mn)
-* ###[基于Agent方法体系的VR仿真研究_李彤](https://pan.baidu.com/s/1kVLfVRD)(提取码：2enj)
-* ###[基于虚拟现实的WEB智能教学系统研究_张晓清](https://pan.baidu.com/s/1nuQlwqH)(提取码：9fz8)
-* ###[虚拟现实系统中的可见光成像仿真_王滨](https://pan.baidu.com/s/1hrXhe6o)(提取码：af93)
-* ###[浅析VR在房地产领域的应用前景_刘成](https://pan.baidu.com/s/1o7GFSmA)(提取码：yhgs)
-* ###[基于VR的建筑物仿真与交互技术_张小萍](https://pan.baidu.com/s/1hr4GOuw)(提取码：zsfh)
-* ###[基于VR技术的虚拟教学应用研究_黄鑫](https://pan.baidu.com/s/1pLNFCuR)(提取码：nc8p)
+- [虚拟人行走运动算法分析与实现_张金钊](https://pan.baidu.com/s/1o8hep7O)(提取码：4gp4)
+- [基于虚拟现实技术的漫游系统_金永涛](https://pan.baidu.com/s/1dF4xplB)(提取码：eij6)
+- [基于虚拟现实技术的现代教育探索_王志坚](https://pan.baidu.com/s/1o8D8pjc)(提取码：5c9e)
+- [虚拟实在与自然实在的本体论对等性](https://pan.baidu.com/s/1c2Hq56g)(提取码：dx9x)
+- [一种基于Web的虚拟现实VR设备展示技术的实现_叶琳](https://pan.baidu.com/s/1mhQTwa0)(提取码：b9y6)
+- [虚拟手机交互系统的研究_徐东风](https://pan.baidu.com/s/1sl6G9NB)(提取码：dymw)
+- [符号学在VR手势交互设计中的应用研究_尹超](https://pan.baidu.com/s/1hs6ta7M)(提取码：am6a)
+- [基于VR的虚拟视景系统关键技术研究_钟啸](https://pan.baidu.com/s/1eRKZXHC)(提取码：b2wa)
+- [从专利角度解析VR与AR_邵永德](https://pan.baidu.com/s/1hrCiyvM)(提取码：7a4y)
+- [跟着VR去火星_杨洋](https://pan.baidu.com/s/1jIbMKWe)(提取码：9w87)
+- [基于Internet的虚拟现实交互技术_杨俊超](https://pan.baidu.com/s/1dF7KXiT)(提取码：k2mn)
+- [基于Agent方法体系的VR仿真研究_李彤](https://pan.baidu.com/s/1kVLfVRD)(提取码：2enj)
+- [基于虚拟现实的WEB智能教学系统研究_张晓清](https://pan.baidu.com/s/1nuQlwqH)(提取码：9fz8)
+- [虚拟现实系统中的可见光成像仿真_王滨](https://pan.baidu.com/s/1hrXhe6o)(提取码：af93)
+- [浅析VR在房地产领域的应用前景_刘成](https://pan.baidu.com/s/1o7GFSmA)(提取码：yhgs)
+- [基于VR的建筑物仿真与交互技术_张小萍](https://pan.baidu.com/s/1hr4GOuw)(提取码：zsfh)
+- [基于VR技术的虚拟教学应用研究_黄鑫](https://pan.baidu.com/s/1pLNFCuR)(提取码：nc8p)
 
 ***
 
+#不断更新中...
 
