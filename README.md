@@ -19,6 +19,7 @@
 ##各平台搭建
 - [VR系列教程 －－各平台开发环境搭建](http://toutiao.com/i6330030103044555266/)
 - [HTC Vive 开发环境搭建](http://www.360doc.com/content/16/0712/10/10408243_574901317.shtml)
+- [HTC Vive 详细视频教程（下载安装全教程）](http://v.youku.com/v_show/id_XMTc0MDgyNDE1Ng==.html?from=y1.7-1.2)
 - [Google CardBoard开发环境搭建1](http://blog.csdn.net/wuyt2008/article/details/50236211)
 - [Google CardBoard开发环境搭建2](http://blog.csdn.net/sunmc1204953974/article/details/50402331)
 - [Oculus 开发环境配置](http://blog.csdn.net/zhangyulin311/article/details/51320429)
