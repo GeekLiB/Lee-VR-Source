@@ -61,6 +61,16 @@
 - [ajaxian](http://my.csdn.net/ejinxian)
 
 ***
+##VR 资讯网站
+- [87870](http://www.87870.com/)--87870网站是国内Oculus rift、虚拟现实技术、虚拟现实游戏、虚拟现实眼镜等虚拟现实内容的第一平台,
+- [VR 之家](http://www.vrzhijia.com/)
+- [VR 兔](http://www.vr2.tv/)
+- [VR 资源社](http://www.vrzys.com/)
+- [百度VR](http://bbs.ivr.baidu.com/)－－百度VR论坛为Htc Vive、Oculus rift、索尼PlayStation VR、手机VR等虚拟现实爱好者打造交流社区,以VR眼镜虚拟现实内容为主,海量VR游戏、VR视频、VR技术、VR游戏软件
+- [腾讯VR](http://vr.tencent.com/)
+- [VR 村](http://www.vrcun.com/)
+- [蛙壳网](http://www.varkr.com/)
+***
 ##CardBoard 开发文章
 - [Cardboard虚拟现实开发初步（一）](http://blog.csdn.net/sunmc1204953974/article/details/47187039)
 - [Cardboard虚拟现实开发初步（二）](http://blog.csdn.net/sunmc1204953974/article/details/47189057)
