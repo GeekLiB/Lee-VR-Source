@@ -128,7 +128,9 @@
 - [36Kr：2016年虚拟现实行业研究报告（应用篇）](https://pan.baidu.com/s/1dF0t2pz)（提取码：7csa）
 - [关于VR的发展历史和未来，这6000字长文梳理得够清楚了！](https://pan.baidu.com/s/1qY4aN5E)(提取码：p2nb)
 - [电影和文学里的VR文化史，虚拟现实从业者必读](https://pan.baidu.com/s/1hsyR0Cs)(提取码：u7am)
-
+- [VR+娱乐类 总结](https://pan.baidu.com/s/1qYJBfCo)（提取码：dks5）
+- [VR+其他类 总结](https://pan.baidu.com/s/1gfiFH7t)（提取码：87vm）
+- [VR+垂直类 总结](https://pan.baidu.com/s/1dF3I2Dr)（提取码：nygv）
 ***
 ##VR 论文
 
@@ -149,6 +151,7 @@
 - [浅析VR在房地产领域的应用前景_刘成](https://pan.baidu.com/s/1o7GFSmA)(提取码：yhgs)
 - [基于VR的建筑物仿真与交互技术_张小萍](https://pan.baidu.com/s/1hr4GOuw)(提取码：zsfh)
 - [基于VR技术的虚拟教学应用研究_黄鑫](https://pan.baidu.com/s/1pLNFCuR)(提取码：nc8p)
+- [一种基于Web的虚拟现实VR设备展示技术的实现_叶琳](https://pan.baidu.com/s/1dFfvYNJ)(提取码：gun8)
 
 ***
 
