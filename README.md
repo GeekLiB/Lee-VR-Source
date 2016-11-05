@@ -104,6 +104,7 @@
 
 ***
 ##Web VR 开发教程
+- [最全WebVR相关学习资源](http://www.toutiao.com/i6349060931078586881/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=mobile_qq&iid=5909861696&utm_medium=toutiao_ios)
 - [ VR开发 入门 使用Three.js 开发的WebVR demo](http://blog.csdn.net/ritterliu/article/details/51386980)
 - [10分钟教你完成一个虚拟现实WEB体验](http://mt.sohu.com/20151026/n424132314.shtml)
 - [一个简单的webVR体验 experience](http://www.open-open.com/lib/view/open1449986253359.html)
