@@ -4,6 +4,7 @@
 ![](images/lee.jpg)
 ***
 ##精选视频教程
+- [Hololens 开发教程](http://edu.manew.com/course/204)
 - [独立开发者的VR游戏开发全过程](http://www.taikr.com/course/447)
 ![](images/1.jpg)
 - [VR小游戏 怪物塔防](http://www.taikr.com/course/379)
