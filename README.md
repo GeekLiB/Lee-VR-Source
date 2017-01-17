@@ -54,6 +54,7 @@
 
 
 ##VR 精选博客
+- [图说VR入门](https://github.com/cartzhang/ImgSayVRabc)
 - [zhangyulin311](http://blog.csdn.net/zhangyulin311/article/category/6214491)--VR 入门系列教程
 - [VR 知识库](http://lib.csdn.net/base/vr?page=2&type=1#md)
 - [VR开发，虚拟现实开发优化总结](http://blog.csdn.net/column/details/vroccart.html)
