@@ -1,9 +1,9 @@
-#VR 开发资源汇总(总结了：精选视频，网站教程，精选博客，各平台搭建，VR报告单，VR知识论文)
-###EasyAR 开发者群：605785368
-###微信公众号：AR开发者
+# VR 开发资源汇总(总结了：精选视频，网站教程，精选博客，各平台搭建，VR报告单，VR知识论文)
+### EasyAR 开发者群：605785368
+### 微信公众号：AR开发者
 
 ***
-##精选视频教程
+## 精选视频教程
 - [Unity3D VR攀岩游戏](http://www.taikr.com/course/477)
 - [Unity3D VR狙击手游戏案例教程](http://www.taikr.com/course/474)
 - [移动端VR应用开发](http://www.taikr.com/course/470)
@@ -20,7 +20,7 @@
 
 ***
 
-##各平台搭建
+## 各平台搭建
 - [VR系列教程 －－各平台开发环境搭建](http://toutiao.com/i6330030103044555266/)
 - [HTC Vive 开发环境搭建](http://www.360doc.com/content/16/0712/10/10408243_574901317.shtml)
 - [HTC Vive 详细视频教程（下载安装全教程）](http://v.youku.com/v_show/id_XMTc0MDgyNDE1Ng==.html?from=y1.7-1.2)
@@ -33,13 +33,13 @@
 - [Web VR 开发教程](http://toutiao.com/i6332426777272517122/)
 - [暴风魔镜开发环境搭建](https://pan.baidu.com/s/1pL923k3)（提取码：4wat）
 
-##网站教程
+## 网站教程
 - [泰课在线](http://www.taikr.com/course/explore/VR?filter%5Btype%5D=all&filter%5Bprice%5D=all&filter%5BcurrentLevelId%5D=all&orderBy=latest)－－国内专业的Unity3D以及VRAR专业视频学习平台,上千门实时更新课程,供学员在线观看,为国内开发者提供最新、最全、最快的视频学习教程
 - [游戏蛮牛](http://edu.manew.com/course/explore/VR?filter%5Btype%5D=all&filter%5Bprice%5D=all&filter%5BcurrentLevelId%5D=all&orderBy=latest)－－游戏蛮牛旗下,国内最大的Unity3D专业视频学习平台,为国内开发者提供最新、最全、最快的视频学习教程
 - [我赢职场](http://www.wyzc.com/Course/Course/exploreAction/category/7964)
 
 ***
-##VR 基础之unity开发网站
+## VR 基础之unity开发网站
 - [慕课网](http://www.imooc.com/)－－慕课网(IMOOC)是国内最大的IT技能学习平台
 - [麦子学院](http://www.maiziedu.com/)－－麦子学院专注IT职业在线教育,提供android开发、ios开发、coocs2d-x、Unity3D、游戏原画、物联网、产品经理、嵌入式、php等一系列线上IT培训服务,推出在线教育智能化...
 - [极客学院](http://www.jikexueyuan.com/)－－极客学院作为中国最大IT职业在线教育平台,拥有海量高清IT职业课程
@@ -53,7 +53,7 @@
 - [直线网](http://www.linecg.com/)－－直线网开创CG艺术学习的新模式,以推动中国CG艺术发展为宗旨,致力于成为全球规模最大、最专业、最具权威性的CG艺术在线学习和分享平台!
 
 
-##VR 精选博客
+## VR 精选博客
 - [图说VR入门](https://github.com/cartzhang/ImgSayVRabc)
 - [zhangyulin311](http://blog.csdn.net/zhangyulin311/article/category/6214491)--VR 入门系列教程
 - [VR 知识库](http://lib.csdn.net/base/vr?page=2&type=1#md)
@@ -67,7 +67,7 @@
 - [ajaxian](http://my.csdn.net/ejinxian)
 
 ***
-##VR 资讯网站
+## VR 资讯网站
 - [87870](http://www.87870.com/)--87870网站是国内Oculus rift、虚拟现实技术、虚拟现实游戏、虚拟现实眼镜等虚拟现实内容的第一平台,
 - [VR 之家](http://www.vrzhijia.com/)
 - [VR 兔](http://www.vr2.tv/)
@@ -78,7 +78,7 @@
 - [蛙壳网](http://www.varkr.com/)
 
 ***
-##CardBoard 开发文章
+## CardBoard 开发文章
 - [Cardboard虚拟现实开发初步（一）](http://blog.csdn.net/sunmc1204953974/article/details/47187039)
 - [Cardboard虚拟现实开发初步（二）](http://blog.csdn.net/sunmc1204953974/article/details/47189057)
 - [ Cardboard虚拟现实开发初步（三）](http://blog.csdn.net/sunmc1204953974/article/details/47191517)
@@ -108,7 +108,7 @@
 - [HTC Vive虚拟现实眼镜使用教程图解](http://www.hao5191.cn/news/wangluoxueyuan/20160417/218425.html)
 
 ***
-##Web VR 开发教程
+## Web VR 开发教程
 - [最全WebVR相关学习资源](http://www.toutiao.com/i6349060931078586881/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=mobile_qq&iid=5909861696&utm_medium=toutiao_ios)
 - [ VR开发 入门 使用Three.js 开发的WebVR demo](http://blog.csdn.net/ritterliu/article/details/51386980)
 - [10分钟教你完成一个虚拟现实WEB体验](http://mt.sohu.com/20151026/n424132314.shtml)
@@ -138,7 +138,7 @@
 - [VR+其他类 总结](https://pan.baidu.com/s/1gfiFH7t)（提取码：87vm）
 - [VR+垂直类 总结](https://pan.baidu.com/s/1dF3I2Dr)（提取码：nygv）
 ***
-##VR 论文
+## VR 论文
 
 - [虚拟人行走运动算法分析与实现_张金钊](https://pan.baidu.com/s/1o8hep7O)(提取码：4gp4)
 - [基于虚拟现实技术的漫游系统_金永涛](https://pan.baidu.com/s/1dF4xplB)(提取码：eij6)
