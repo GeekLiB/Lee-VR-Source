@@ -1,6 +1,15 @@
+<p align="center">
+  <br>
+  <img width="400" src="images/awesome.jpeg" alt="logo of ARPortal-awesome repository">
+  <br>
+  <br>
+</p>
+
+## By AIRX（国内领先的AI、AR、VR技术学习与交流平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 # VR 开发资源汇总(总结了：精选视频，网站教程，精选博客，各平台搭建，VR报告单，VR知识论文)
-### EasyAR 开发者群：605785368
-### 微信公众号：AR开发者
+#### 微信公众号：AIRX社区
+![AR Portal](https://upload-images.jianshu.io/upload_images/3016913-0d7f06621db6fc4c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AR-Portal')
+***
 
 ***
 ## 精选视频教程
