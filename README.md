@@ -4,14 +4,11 @@
   <br>
   <br>
 </p>
-
 ## By AIRX（国内领先的AI、AR、VR技术学习与交流平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-# VR 开发资源汇总(总结了：精选视频，网站教程，精选博客，各平台搭建，VR报告单，VR知识论文)
+#### VR 开发资源汇总(总结了：精选视频，网站教程，精选博客，各平台搭建，VR报告单，VR知识论文)
 #### 微信公众号：AIRX社区
 ![AR Portal](https://upload-images.jianshu.io/upload_images/3016913-0d7f06621db6fc4c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AR-Portal')
-***
 
-***
 ## 精选视频教程
 - [Unity3D VR攀岩游戏](http://www.taikr.com/course/477)
 - [Unity3D VR狙击手游戏案例教程](http://www.taikr.com/course/474)
