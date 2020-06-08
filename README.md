@@ -1,4 +1,5 @@
 ## By AIRX（国内领先的AI、AR、VR技术学习与交流平台）
+#### 添加微信入群：AIRX001
 #### 微信公众号：AIRX社区
 ![AR Portal](https://upload-images.jianshu.io/upload_images/3016913-0d7f06621db6fc4c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AR-Portal')
 
