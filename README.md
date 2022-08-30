@@ -1,9 +1,8 @@
-![](https://upload-images.jianshu.io/upload_images/3016913-902d8bdd204cc954.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-## By 三次方（三次方•目前国内最大的泛AR/VR学习在线教育平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## By 三次方（三次方•3D互联网产业服务平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### 添加微信入群：AIRX001
 #### 微信公众号：三次方AIRX
-#### [高质量强干货AR／VR知识社群，限量加入](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzEzMg==&mid=2247493042&idx=6&sn=4212bf26fc90d53a1e6ff06050543f8d&chksm=cea87351f9dffa4771d55b8bb26ba0cc2cac81ed16205dcc91940fa095e8e73281c77895dbec&token=2073608675&lang=zh_CN#rd)
-![三次方](https://upload-images.jianshu.io/upload_images/25453958-4c94d732ba430b08.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AIRX')
+
+三次方是面向3D互联网的科技媒体和产业服务平台（AR、VR、元宇宙、虚拟人、数字孪生方向），发掘虚拟世界商业应用，关注元宇宙企业发展和赋能技术升级案例，致力于推动AR、VR、元宇宙、虚拟人等科技创新在产业之中的落地与应用。包含社群、培训、媒体、企服等业务！
 
 ## 精选视频教程
 - [Unity3D VR攀岩游戏](http://www.taikr.com/course/477)
